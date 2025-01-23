@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "relax.showReadmeOnLoad": false,
+  "explorer.confirmDelete": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "onFocusChange",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  //minhas configuraçoes abaixo
+  "workbench.settings.useSplitJSON": true
+  "explorer.compactFolders": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.statusBar.visible": false, //barra de navegaçao
+  
+
+
+  
+}
