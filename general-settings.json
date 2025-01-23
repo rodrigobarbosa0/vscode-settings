@@ -9,15 +9,25 @@
   "files.autoSave": "onFocusChange",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  
   //minhas configuraçoes abaixo
   "workbench.settings.useSplitJSON": true
   "explorer.compactFolders": false,
-  "workbench.activityBar.location": "hidden",
+  "editor.fontSize": 20,  //tamanho da fonte
+  "editor.lineHeight": 2.6, //espaçamento entre linhas
+  "editor.rulers": [80, 120],
+  "editor.renderLineHighlight": "gutter", 
+  "workbench.editor.labelFormat": "short"
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false, //barra de funçoes superior que mostra onde está o arquivo
+  "workbench.activityBar.location": "hidden", //esconder barra de atividades
   "editor.scrollbar.horizontal": "hidden",
   "editor.scrollbar.vertical": "hidden",
   "workbench.statusBar.visible": false, //barra de navegaçao
-  
-
-
-  
+  "window.titleBarStyle": "native",
+  "window.commandCenter": false,
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.maxColumn": 100,
+  "editor.minimap.renderCharacters": true,
+  "editor.minimap.autohide": true,
 }
